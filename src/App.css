@@ -1,0 +1,9 @@
+.App {
+  max-width: 1050px;
+  width: 95%;
+  margin: 10px auto;
+}
+
+.header-click {
+  margin-bottom: 10px;
+}
